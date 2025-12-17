@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Code Garden
+# 👋 Hi, I'm Taha Bensadek
 
 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 Passionate about building scalable web applications and creating seamless digital experiences.  
