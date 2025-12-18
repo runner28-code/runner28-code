@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taha Bensadek
 
-🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+🚀 **Software Engineer | Problem Solver | Tech Enthusiast**  
 Passionate about building scalable web applications and creating seamless digital experiences.  
 Always exploring new technologies and contributing to open-source communities.  
 
