@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thomas Chen
+# 👋 Hi, I'm Code Gardener
 
 🚀 **Software Engineer | Problem Solver | Tech Enthusiast**  
 Passionate about building scalable web applications and creating seamless digital experiences.  
